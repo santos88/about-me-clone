@@ -1,0 +1,32 @@
+.themed-grid-col {
+  background-color: #ffffff;
+  border: 0;
+}
+
+.no-margins {
+  padding: 0; 
+  margin: 0; 
+  border: 0;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+  max-width: 100%;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+}
+
+.text-content {
+  padding-top: 100px;
+}
+
+#carouselExampleControls {
+  height: 100%;
+}
